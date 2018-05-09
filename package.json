@@ -1,0 +1,24 @@
+{
+  "name": "tacobot",
+  "version": "1.0.0",
+  "description": "tacos 4 errybody",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "taco"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjs08h/tacobot.git"
+  },
+  "keywords": [
+    "tacos"
+  ],
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjs08h/tacobot/issues"
+  },
+  "homepage": "https://github.com/sjs08h/tacobot#readme"
+}
